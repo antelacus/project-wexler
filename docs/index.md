@@ -19,7 +19,7 @@
 - [总结与优化建议](conclusion.md)
 
 ### 📁 附件下载
-- [Jupyter Notebook 源代码](../Project_Wexler_Code.ipynb)
+- [Jupyter Notebook](../Project_Wexler_Code.ipynb)
 - [PDF报告](../Project_White.pdf)
 
 ---
