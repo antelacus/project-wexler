@@ -2,8 +2,6 @@
 
 欢迎来到 Project Wexler 的项目展示页面。本项目旨在构建一个基于 LightFM 算法的推荐系统，使用真实用户行为数据进行建模、评估和总结。
 
-📊 **技术栈：**
-
 - **目标**：构建具有商业意义的推荐系统原型
 - **算法**：LightFM（融合 Collaborative & Content-based 方法）
 - **数据集**：Retailrocket Recommender Dataset
