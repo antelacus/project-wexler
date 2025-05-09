@@ -45,7 +45,7 @@ AUC 测试结果表明，该模型在用户历史行为上具有良好的排序�
 
 展示了模型对部分用户推荐的物品数量与其真实正反馈数量之间的差异，验证推荐集中度与偏好覆盖率。
 
-![Recommendation Quality](./assets/output_59_0.png)
+![Recommendation Quality](./assets/output_59_2.png)
 
 ---
 
