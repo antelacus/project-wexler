@@ -18,7 +18,6 @@
 ### 📁 附件访问
 
 - 🔗 [在 GitHub 上查看源代码](https://github.com/antelacus/project-wexler/blob/main/Project_Wexler_Code.ipynb)  
-  查看可编辑源码、评论、历史版本等
 
 - 📖 [通过 nbviewer 在线阅读](https://nbviewer.org/github/antelacus/project-wexler/blob/main/Project_Wexler_Code.ipynb)  
 
