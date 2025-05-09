@@ -26,7 +26,6 @@
 project-wexler/
 ├── docs/                      # GitHub Pages 页面内容
 ├── Project_Wexler_Code.ipynb  # 分析用 Jupyter Notebook
-├── Project_Wexler.pdf         # 分析报告 PDF 版本
 ├── .gitignore                 # Git 忽略文件配置
 ├── requirements.txt           # Python 依赖说明
 └── README.md                  # 项目说明（当前文件）
