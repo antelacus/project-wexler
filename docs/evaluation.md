@@ -29,15 +29,23 @@ AUC 测试结果表明，该模型在用户历史行为上具有良好的排序�
 
 ---
 
-## 📊 可视化分析
+## 🖼 可视化分析
 
-我们在 Notebook 中进一步分析了模型效果，包括：
+我们在 Notebook 中生成了两个关键图像，辅助理解模型预测质量与推荐表现：
 
-- **训练损失曲线**：逐轮收敛良好，未出现明显过拟合
-- **嵌入空间可视化**：用户与物品的 latent vector 可视化展示（PCA降维）
-- **推荐分布图**：展示推荐商品类别集中度、受欢迎程度变化
+### AUC 得分比较图
 
-👉 详情见：[Project_Wexler_Code.ipynb](https://github.com/antelacus/project-wexler/blob/main/Project_Wexler_Code.ipynb)
+展示了 LightFM 模型在训练集与测试集上的 AUC 表现，测试集结果达到 0.828，属于“良好”推荐效果区间。
+
+![AUC Scores](./assets/auc_scores.png)
+
+---
+
+### 推荐质量分布图
+
+展示了模型对部分用户推荐的物品数量与其真实正反馈数量之间的差异，验证推荐集中度与偏好覆盖率。
+
+![Recommendation Quality](./assets/recommendation_quality.png)
 
 ---
 
