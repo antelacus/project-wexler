@@ -1,14 +1,25 @@
-# 🧠 Project Wexler: 一个机器学习分析项目
+# Project Wexler - 一个机器学习分析项目
 
 本项目展示了机器学习在回归预测任务中的完整应用流程，包括数据探索、特征处理、模型训练、评估与解释。该项目适合用于数据分析和机器学习项目展示，也可作为入门项目参考。
 
-## 📂 项目内容
+📊 **技术栈：**
+- 分析工具：Python, Jupyter Notebook
+- 可视化：Matplotlib, Seaborn
+- 模型方法：lightfm
 
-| 文件名 | 说明 |
-|--------|------|
+---
+
+## 📂 项目结构
+
+```
+project-white/
+├── docs/                      # GitHub Pages 页面内容
 | `Project_Wexler.md` | 项目结构文档，描述背景、数据、建模思路、评估与改进 |
 | `Project_Wexler_Code.ipynb` | Jupyter Notebook，包含从数据预处理到建模的完整代码 |
-
+├── .gitignore                 # Git 忽略文件配置
+├── requirements.txt           # Python 依赖说明
+└── README.md                  # 项目说明（当前文件）
+```
 ---
 
 ## 🎯 项目目标
@@ -39,6 +50,14 @@
 
 ---
 
+## 🌐 在线浏览报告
+
+项目报告已通过 GitHub Pages 发布，可直接在线阅读：
+
+👉 [点击访问 Project Wexler 网页版报告](https://antelacus.github.io/project-wexler/)
+
+---
+
 ## 💻 快速开始
 
 ### ✅ 安装依赖
@@ -57,13 +76,13 @@ jupyter notebook Project_Wexler_Code.ipynb
 
 ---
 
-## 📘 License
+## 📜 数据来源与授权
 
-本项目基于 MIT License 开源，欢迎自由学习与传播。
+- 数据集来自 [Kaggle - Retailrocket recommender system dataset](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset)
+- 本项目遵循 MIT License 许可协议
 
 ---
 
-## 📬 联系作者
+## 🙋‍♂️ 作者
 
-- GitHub: [antelacus](https://github.com/antelacus)
-- 博客展示页: [antelacus.github.io/project-white](https://antelacus.github.io/project-white)
+项目由 [@antelacus](https://github.com/antelacus) 制作，用于数据分析能力展示与公开分享。如有建议欢迎反馈或交流！
