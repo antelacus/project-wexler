@@ -14,7 +14,6 @@
 ```
 project-white/
 ├── docs/                      # GitHub Pages 页面内容
-├── Project_Wexler.md          # 项目结构文档，描述背景、数据、建模思路、评估与改进
 ├── Project_Wexler_Code.ipynb  # Jupyter Notebook，包含从数据预处理到建模的完整代码
 ├── .gitignore                 # Git 忽略文件配置
 ├── requirements.txt           # Python 依赖说明
