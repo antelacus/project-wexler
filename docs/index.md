@@ -16,7 +16,7 @@
 - [模型评估与结果](evaluation.md)
 
 ### 📁 附件下载
-- [Jupyter Notebook](../Project_Wexler_Code.ipynb)
+- [Jupyter Notebook](./Project_Wexler_Code.ipynb)
 
 ---
 
