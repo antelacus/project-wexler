@@ -17,7 +17,6 @@
 
 ### 📁 附件下载
 - [Jupyter Notebook](../Project_Wexler_Code.ipynb)
-- [PDF报告](../Project_Wexler.pdf)
 
 ---
 
