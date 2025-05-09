@@ -5,7 +5,7 @@
 📊 **技术栈：**
 - 分析工具：Python, Jupyter Notebook
 - 可视化：Matplotlib, Seaborn
-- 模型方法：lightfm
+- 模型方法：LightFM
 
 ---
 
