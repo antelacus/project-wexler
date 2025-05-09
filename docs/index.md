@@ -14,7 +14,6 @@
 ### 📑 报告目录
 - [方法与建模流程](methodology.md)
 - [模型评估与结果](evaluation.md)
-- [总结与优化建议](conclusion.md)
 
 ### 📁 附件下载
 - [Jupyter Notebook](../Project_Wexler_Code.ipynb)
